@@ -4,6 +4,11 @@
 <a href="https://gifyu.com/image/SClF2"><img src="https://s13.gifyu.com/images/SClF2.gif" alt="Banner" border="0" /></a>
 </div>
 
+## Who I am?
+
+<div align="center">
+    <img height="320" src="https://s13.gifyu.com/images/SCUZT.png">
+</div>
 
 ## about me
 
