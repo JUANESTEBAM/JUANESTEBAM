@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, my name is Juan Rivero, nice to meet you.👋</h1>
+<h1 align="center">Hi, my name is Juan Rivero, nice to meet you.👋 🤗</h1>
 
 <a href="https://gifyu.com/image/SClF2"><img src="https://s13.gifyu.com/images/SClF2.gif" alt="Banner" border="0" /></a>
 </div>
