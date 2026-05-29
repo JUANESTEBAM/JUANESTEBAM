@@ -1,60 +1,61 @@
-<div align="center">
-  
-  # 👋 Hi, I'm **Juan Rivero**  
-  _Frontend Developer (React/TypeScript) with Full Stack skills_
+<h1 align="center">Hi 👋, I'm Juan Rivero</h1>
 
-  <img src="https://s13.gifyu.com/images/SClF2.gif" alt="Banner" width="800" />
-  
-</div>
-
----
-
-## 🧑‍🚀 **About Me**
-
-- 🎮 **Gamer at heart**, creativity inspires me to code.  
-- 🎨 I enjoy **crafting beautiful and interactive web designs**.  
-- 📚 **Always learning**: new frameworks, tools, and trends.  
-- 🦈 A highly **organized and detail-oriented** developer.  
-- 🐶 I enjoy **spending time with animals** (they keep me happy).  
-
----
-
-## 🚀 **What I Do**
-- Build **modern web apps** with **React, TypeScript, TailwindCSS**.  
-- Create **robust APIs** using **Python + FastAPI**.  
-- Integrate **payment systems** like **Mercado Pago** for e-commerce.  
-- Deploy apps with **GitHub Actions**, **AWS**, and **Vercel**.  
-- Work with **databases** like **MongoDB** and **MySQL**.  
-
----
-
-## 🛠️ **Languages & Tools**
+<h3 align="center">
+Frontend & Full Stack Developer | React · TypeScript · FastAPI
+</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
+Building scalable web applications with modern technologies and clean UI.
 </p>
 
 ---
 
-## 🌟 **Projects**
-I am currently building and refining my projects.  
-Stay tuned — **cool things are coming soon!** 🚧  
+## Who I am
+
+```ts
+const juan = {
+  role: "Frontend & Full Stack Developer",
+  stack: [
+    "React",
+    "TypeScript",
+    "TailwindCSS",
+    "FastAPI",
+    "MongoDB",
+    "AWS"
+  ],
+  expertise: [
+    "REST APIs",
+    "Authentication",
+    "Payment Integrations",
+    "Responsive UI",
+    "Deployment"
+  ],
+  building: "Modern web applications from idea to production",
+  location: "Colombia 🇨🇴"
+}
+```
+
+## 🚀 Featured Projects
+
+### 🛒 E-commerce Platform
+React · TypeScript · FastAPI · MongoDB · Mercado Pago
+
+Full-stack e-commerce platform with authentication,
+payment processing and admin dashboard.
 
 ---
 
-## 📫 **Contact**
-📧 **Email:** [rivejuan987@gmail.com](mailto:rivejuan987@gmail.com)
+### 📋 Task Management App
+React · TailwindCSS · FastAPI
+
+Modern task management application with responsive design
+and real-time interactions.
 
 ---
 
-## 💡 **Quote**
-> _"The more you learn, the less you realize you know."_  
-> _"Entre más aprendes, te das cuenta de que menos sabes."_
+## ⚙️ GitHub Analytics
 
----
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>****
