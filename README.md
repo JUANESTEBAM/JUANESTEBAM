@@ -4,18 +4,18 @@
 
 ### Frontend & Full Stack Developer | React · TypeScript · FastAPI
 
-
 <p>
 Building modern web applications with clean UI, scalable systems, and responsive user experiences.
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+React+Native+Learner;Future+Game+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+
+<img src="https://s13.gifyu.com/images/SCl0l.gif" width="350" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/15ec2f74-0207-411d-8086-698233b978a6" />
 
 ### 🛒 E-Commerce Platform
 **Stack:** React · TypeScript · FastAPI · MongoDB · Mercado Pago
