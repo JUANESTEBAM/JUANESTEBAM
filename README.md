@@ -4,11 +4,31 @@
 
 ### Frontend & Full Stack Developer | React · TypeScript · FastAPI
 
+
 <p>
 Building modern web applications with clean UI, scalable systems, and responsive user experiences.
 </p>
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/15ec2f74-0207-411d-8086-698233b978a6" />
+
+### 🛒 E-Commerce Platform
+**Stack:** React · TypeScript · FastAPI · MongoDB · Mercado Pago
+
+Full-stack e-commerce platform with authentication,
+payment integration, admin dashboard, and responsive UI.
+
+---
+### 📋 Task Management App
+**Stack:** React · TailwindCSS · FastAPI
+
+Task management application focused on clean UI,
+performance, and user experience.
 
 ---
 
@@ -63,25 +83,6 @@ const juan = {
 }
 ```
 
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Platform
-**Stack:** React · TypeScript · FastAPI · MongoDB · Mercado Pago
-
-Full-stack e-commerce platform with authentication,
-payment integration, admin dashboard, and responsive UI.
-
----
-
-### 📋 Task Management App
-**Stack:** React · TailwindCSS · FastAPI
-
-Task management application focused on clean UI,
-performance, and user experience.
-
----
 
 ### 🤖 AI Chat Application
 **Stack:** React · TypeScript · Python
@@ -120,6 +121,16 @@ responsive design, and modern UI.
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
