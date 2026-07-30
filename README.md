@@ -93,11 +93,13 @@ and dynamic frontend interactions.
 
 ---
 
-### 🌐 Portfolio Website
+### 🌐 [Portfolio Website](https://portfolio-fzse.vercel.app)
 **Stack:** React · TailwindCSS · Vercel
 
 Personal portfolio focused on performance,
 responsive design, and modern UI.
+
+🔗 **[View Live Demo ↗](https://portfolio-fzse.vercel.app)**
 
 ---
 
