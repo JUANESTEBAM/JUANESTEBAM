@@ -8,8 +8,7 @@
 Building modern web applications with clean UI, scalable systems, and responsive user experiences.
 </p>
 
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+React+Native+Learner;Future+Game+Developer;Always+Learning+New+Things](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+React+Native+Learner;Future+Game+Developer;Always+Learning+New+Things)" alt="Typing SVG" />
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+%26+Full+Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+FastAPI;Building+Modern+%26+Scalable+Web+Apps;Always+Learning+%26+Building+Products" alt="Typing SVG" /></a>
 <img src="[https://s13.gifyu.com/images/SCl0l.gif](https://s13.gifyu.com/images/SCl0l.gif)" width="350" />
 
 </div>
