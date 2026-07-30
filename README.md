@@ -93,20 +93,14 @@ and dynamic frontend interactions.
 
 ---
 
-<div align="left">
-
-### 🌐 Portfolio Website
-
 <a href="https://portfolio-fzse.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/VISIT_PORTFOLIO_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF" width="100%" alt="Visit Portfolio" />
 </a>
 
-<p style="margin-top: 10px;">
-  <b>Stack:</b> React · TailwindCSS · Vercel<br>
-  Personal portfolio focused on performance, responsive design, and modern UI.
-</p>
+### 🌐 [Portfolio Website](https://portfolio-fzse.vercel.app)
+**Stack:** React · TailwindCSS · Vercel
 
-</div>
+Personal portfolio focused on performance, responsive design, and modern UI.
 
 ---
 
