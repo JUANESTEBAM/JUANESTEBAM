@@ -1,115 +1,282 @@
 <div align="center">
 
+
+
 # 👋 Hi, I'm Juan Rivero
+
+
 
 ### Frontend & Full Stack Developer | React · TypeScript · FastAPI
 
+
+
 <p>
+
 Building modern web applications with clean UI, scalable systems, and responsive user experiences.
+
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%26+TypeScript;FastAPI+%26+Python;Always+Learning+New+Things" alt="Typing SVG" />
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+React+Native+Learner;Future+Game+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+
+
 
 <img src="https://s13.gifyu.com/images/SCl0l.gif" width="350" />
+
 </div>
 
+
+
 ---
+
+
 
 ## 🚀 Featured Projects
 
+
+
 ### 🛒 E-Commerce Platform
+
 **Stack:** React · TypeScript · FastAPI · MongoDB · Mercado Pago
 
+
+
 Full-stack e-commerce platform with authentication,
+
 payment integration, admin dashboard, and responsive UI.
 
+
+
 ---
+
 ### 📋 Task Management App
+
 **Stack:** React · TailwindCSS · FastAPI
 
+
+
 Task management application focused on clean UI,
+
 performance, and user experience.
 
----
 
-### 🤖 AI Chat Application
-**Stack:** React · TypeScript · Python
-
-Interactive AI-powered application with API integration
-and dynamic frontend interactions.
 
 ---
 
-### 🌐 Portfolio Website
-**Stack:** React · TypeScript · TailwindCSS · Vercel
 
-Personal portfolio focused on performance,
-responsive design, and modern UI.
-
----
 
 ## 🧑‍💻 Who I Am
 
+
+
 ```ts
+
 const juan = {
-  name: "Juan Esteban Rivero",
+
   role: "Frontend & Full Stack Developer",
-  education: "Unicorn Academy — Full Stack Developer (Python & React)",
+
+
 
   frontend: [
+
     "React",
+
     "TypeScript",
-    "JavaScript (ES6+)",
-    "TailwindCSS",
-    "Vite",
-    "HTML5 / CSS3"
+
+    "JavaScript",
+
+    "TailwindCSS"
+
   ],
+
+
 
   backend: [
+
     "Python",
+
     "FastAPI",
-    "REST APIs",
-    "JWT Authentication"
+
+    "REST APIs"
+
   ],
+
+
 
   database: [
+
     "MongoDB",
+
     "MySQL"
+
   ],
+
+
 
   tools: [
+
     "Git",
+
     "GitHub",
+
     "Vercel",
-    "AWS",
-    "Postman",
-    "VS Code"
+
+    "GitHub Actions"
+
   ],
 
+
+
   expertise: [
-    "Responsive UI / UX",
+
+    "Responsive UI",
+
     "API Integration",
+
     "Payment Systems",
+
     "Authentication",
-    "Clean Architecture",
-    "Component-Driven Development"
+
+    "Clean Architecture"
+
   ],
+
+
 
   building: "Modern full stack applications from idea to production",
 
+
+
   currentlyLearning: [
+
     "System Design",
-    "Advanced Backend Architecture",
-    "Cloud Deployments"
+
+    "Backend Architecture",
+
+    "Cloud Services"
+
   ],
 
-  softSkills: [
-    "Problem Solving",
-    "Teamwork",
-    "Adaptability",
-    "Continuous Improvement"
-  ],
 
-  location: "Medellín, Colombia 🇨🇴",
-  openToWork: true
+
+  location: "Colombia 🇨🇴"
+
 }
+
+```
+
+
+
+
+
+### 🤖 AI Chat Application
+
+**Stack:** React · TypeScript · Python
+
+
+
+Interactive AI-powered application with API integration
+
+and dynamic frontend interactions.
+
+
+
+---
+
+
+
+### 🌐 Portfolio Website
+
+**Stack:** React · TailwindCSS · Vercel
+
+
+
+Personal portfolio focused on performance,
+
+responsive design, and modern UI.
+
+
+
+---
+
+
+
+## 🛠️ Tech Stack
+
+
+
+<div align="center">
+
+
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,python,fastapi,mongodb,mysql,git,github,vscode" />
+
+
+
+</div>
+
+
+
+---
+
+
+
+## 🌎 Connect With Me
+
+
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/juanriverodev">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  </a>
+
+
+
+  <a href="mailto:rivejuan987@gmail.com">
+
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  </a>
+
+</p>
+
+
+
+---
+
+
+
+# 🐍 Contribution Snake
+
+
+
+<div align="center">
+
+
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+### ⚡ Building, learning, and improving every day.
+
+
+
+</div> 
+
